@@ -8,6 +8,8 @@ The interactive dashboard offers insights into **sales quantity, revenue trends,
 
 🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/muhammed.thaha.uwais/viz/Portfolio_Project_2AmazonSalesinIndia/Dashboard1)
 
+![Dashboard Preview](https://github.com/Muhammedthwaha/-Amazon-Sales-in-India-Tableau-Dashboard/blob/main/Dashboard%201.png)
+
 ---
 
 ## 🧩 Dataset Information
